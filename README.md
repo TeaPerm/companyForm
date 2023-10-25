@@ -2,7 +2,7 @@
 
 Ebben a projektben a React Hook Form könyvtárral hoztam létre a vállalati és dolgozói adatok űrlapját, valamint a hozzájuk tartozó validálást.
 
-- A package-ek letöltése után, "npm run dev" paranccsal indítható a terminálban a projekt. 
+- A package-k letöltése után, "npm run dev" paranccsal indítható a terminálban a projekt. 
 
 - A vállalati adatok szakaszt egy űrlap segítségével hoztam létre, ahol a vállalat nevét, e-mail címét, dolgozók számát, majd a dolgozók adatait és egy opcionális leírást lehet megadni.
 
